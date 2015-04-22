@@ -4,4 +4,4 @@
 fruits = ["apple", "orange", "banana"]
 
 for fruit in fruits:
-    print "Fruit", fruit
+    print "Fruits", fruit
